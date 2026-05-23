@@ -9,6 +9,8 @@ API Version: v1
 
 ---
 
+NOTICE: API SUSPENDED
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
